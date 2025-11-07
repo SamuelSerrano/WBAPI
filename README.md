@@ -10,7 +10,7 @@ API Creada por Samuel Serrano para la prueba Técnica.
 ## Ejecutar local
 1. `dotnet restore`
 2. `dotnet run --project WBAPI.Api`
-3. API: `http://localhost:5276` 
+3. API: `http://localhost:5276`
 
 ## Flujo de pruebas (Postman)
 Importar `postman_collection_WBAPI.json`
