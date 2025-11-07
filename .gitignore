@@ -1,0 +1,25 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.pidb
+*.svclog
+*.log
